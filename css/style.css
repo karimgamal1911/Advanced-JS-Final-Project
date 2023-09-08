@@ -1,0 +1,7 @@
+.nav-item{
+margin-right: 50px;
+}
+.nav-item:hover{
+    background-color: gray;
+    border-bottom: 1px solid red;
+}
